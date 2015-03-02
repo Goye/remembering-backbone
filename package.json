@@ -1,0 +1,17 @@
+{
+  "name": "remembering-backbone",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Some old backbone implementation",
+  "keywords": [],
+  "dependencies": {
+    "backbone": "^1.1.2",
+    "lodash": "^2.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git clone https://github.com/Goye/remembering-backbone.git"
+  },
+  "author": "Goye",
+  "license": ""
+}
